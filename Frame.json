@@ -1,23 +1,18 @@
 {
      "Categories": [
     {
-      "category": "Hut RI",
+      "category": "Malaysia merdeka",
       "image_link": "frame/test.webp"
 
     },
     {
-      "category": "Lomba Hut RI",
+      "category": "Malaysia lucu",
       "image_link": "frame/test.webp"
 
     },
     {
-      "category": "Partai",
+      "category": "Lucu",
       "image_link": "frame/twkaleng.webp"
-
-    },
-    {
-      "category": "Lainnya",
-      "image_link": "frame/ribut.webp"
 
     }
 
@@ -26,92 +21,55 @@
   "Item": [
     {
       "id": 1,
-      "category": "Lainnya",
-      "title": "Menjadi badut",
-      "image_link": "frame/twbadut4.webp"
+      "category": "Malaysia merdeka",
+      "title": "Merdeka merdeka",
+      "image_link": "https://raw.githubusercontent.com/pratamaTeknologi/aplikasitwibon/main/twhutmalaysia1.webp"
     },
     {
       "id": 2,
-      "category": "Lainnya",
-      "title": "Badut sad",
-      "image_link": "frame/twbadut3.webp"
+      "category": "Malaysia merdeka",
+      "title": "Merdeka merdeka",
+      "image_link": "https://raw.githubusercontent.com/pratamaTeknologi/aplikasitwibon/main/twhutmalaysia2.webp"
 
     },
     {
       "id": 3,
-      "category": "Lainnya",
-      "title": "Badut lucu",
-      "image_link": "frame/twbadut2.webp"
+      "category": "Malaysia merdeka",
+      "title": "Merdeka merdeka",
+      "image_link": "https://raw.githubusercontent.com/pratamaTeknologi/aplikasitwibon/main/twhutmalaysia3.webp"
 
     },
     {
       "id": 4,
-      "category": "Lainnya",
-      "title": "Badut",
-      "image_link": "frame/twbadut1.webp"
+      "category": "Malaysia merdeka",
+      "title": "Merdeka merdeka",
+      "image_link": "https://raw.githubusercontent.com/pratamaTeknologi/aplikasitwibon/main/twhutmalaysia4.webp"
 
     },
     {
       "id": 5,
-      "category": "Hut RI",
-      "title": "Twibon Hut RI 78",
-      "image_link": "twhutri5.webp"
+      "category": "Malaysia merdeka",
+      "title": "Merdeka merdeka",
+      "image_link": "https://raw.githubusercontent.com/pratamaTeknologi/aplikasitwibon/main/twhutmalaysia5.webp"
     },
     {
       "id": 6,
-      "category": "Lainnya",
-      "title": "Kaleng khong guan",
-      "image_link": "frame/twkaleng.webp"
+      "category": "Malaysia merdeka",
+      "title": "Merdeka merdeka",
+      "image_link": "https://raw.githubusercontent.com/pratamaTeknologi/aplikasitwibon/main/twhutmalaysia6.webp"
     },
     {
       "id": 7,
-      "category": "Lainnya",
-      "title": "Kaleng khong guan",
-      "image_link": "frame/twkaleng2.webp"
+      "category": "Malaysia merdeka",
+      "title": "Merdeka merdeka",
+      "image_link": "https://raw.githubusercontent.com/pratamaTeknologi/aplikasitwibon/main/twhutmalaysia7.webp"
     },
     {
       "id": 8,
-      "category": "Lainnya",
+      "category": "Lucu",
       "title": "Ribut Bikin Kangen",
       "image_link": "frame/ribut.webp"
-    },
-    {
-      "id": 9,
-      "category": "Hut RI",
-      "title": "Hut RI 78",
-      "image_link": "frame/test.webp"
-    },
-    {
-      "id": 10,
-      "category": "Hut RI",
-      "title": "Twibon Hut RI 78",
-      "image_link": "frame/twhutri4.webp"
-    },
-    {
-      "id": 11,
-      "category": "Hut RI",
-      "title": "Twibon keren Hut RI",
-      "image_link": "frame/twhutri3.webp"
-    },
-    {
-      "id": 12,
-      "category": "Hut RI",
-      "title": "Hut RI Twibon keren",
-      "image_link": "frame/twhutri2.webp"
-    },
-    {
-      "id": 13,
-      "category": "Hut RI",
-      "title": "Hut RI 78",
-      "image_link": "frame/twhutri1.webp"
-    },
-    {
-      "id": 14,
-      "category": "Hut RI",
-      "title": "Hut ri",
-      "image_link": "frame/twhutri6.webp"
     }
-
 
   ]
 }
