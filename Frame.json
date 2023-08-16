@@ -68,7 +68,25 @@
       "id": 8,
       "category": "Malaysia merdeka",
       "title": "merdeka",
-      "image_link": "frame/ribut.webp"
+      "image_link": "https://raw.githubusercontent.com/pratamaTeknologi/aplikasitwibon/main/twhutmalaysia8.webp"
+    },
+    {
+      "id": 9,
+      "category": "Malaysia merdeka",
+      "title": "merdeka",
+      "image_link": "https://raw.githubusercontent.com/pratamaTeknologi/aplikasitwibon/main/twhutmalaysia9.webp"
+    },
+    {
+      "id": 10,
+      "category": "Malaysia merdeka",
+      "title": "merdeka",
+      "image_link": "https://raw.githubusercontent.com/pratamaTeknologi/aplikasitwibon/main/twhutmalaysia12.webp"
+    },
+    {
+      "id": 11,
+      "category": "Malaysia merdeka",
+      "title": "merdeka",
+      "image_link": "https://raw.githubusercontent.com/pratamaTeknologi/aplikasitwibon/main/twhutmalaysia13.webp"
     }
 
   ]
