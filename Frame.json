@@ -2,13 +2,13 @@
      "Categories": [
     {
       "category": "Malaysia merdeka",
-      "image_link": "frame/test.webp"
+      "image_link": "https://raw.githubusercontent.com/pratamaTeknologi/aplikasitwibon/main/twhutmalaysia1.webp"
 
     },
    
     {
       "category": "Lucu",
-      "image_link": "frame/twkaleng.webp"
+      "image_link": "https://raw.githubusercontent.com/pratamaTeknologi/aplikasitwibon/main/twupin1.webp"
 
     }
 
@@ -77,6 +77,66 @@
       "category": "Malaysia merdeka",
       "title": "merdeka",
       "image_link": "https://raw.githubusercontent.com/pratamaTeknologi/aplikasitwibon/main/twhutmalaysia13.webp"
+    },
+    {
+      "id": 11,
+      "category": "Malaysia merdeka",
+      "title": "merdeka",
+      "image_link": "https://raw.githubusercontent.com/pratamaTeknologi/aplikasitwibon/main/twhutmalaysia14.webp"
+    },
+    {
+      "id": 12,
+      "category": "Malaysia merdeka",
+      "title": "merdeka",
+      "image_link": "https://raw.githubusercontent.com/pratamaTeknologi/aplikasitwibon/main/twhutmalaysia15.webp"
+    },
+    {
+      "id": 13,
+      "category": "Malaysia merdeka",
+      "title": "merdeka",
+      "image_link": "https://raw.githubusercontent.com/pratamaTeknologi/aplikasitwibon/main/twhutmalaysia16.webp"
+    },
+    {
+      "id": 14,
+      "category": "Malaysia merdeka",
+      "title": "merdeka",
+      "image_link": "https://raw.githubusercontent.com/pratamaTeknologi/aplikasitwibon/main/twhutmalaysia17.webp"
+    },
+    {
+      "id": 15,
+      "category": "Malaysia merdeka",
+      "title": "merdeka",
+      "image_link": "https://raw.githubusercontent.com/pratamaTeknologi/aplikasitwibon/main/twhutmalaysia18.webp"
+    },
+    {
+      "id": 16,
+      "category": "Malaysia merdeka",
+      "title": "merdeka",
+      "image_link": "https://raw.githubusercontent.com/pratamaTeknologi/aplikasitwibon/main/twupin1.webp"
+    },
+    {
+      "id": 17,
+      "category": "Malaysia merdeka",
+      "title": "merdeka",
+      "image_link": "https://raw.githubusercontent.com/pratamaTeknologi/aplikasitwibon/main/twupin2.webp"
+    },
+    {
+      "id": 18,
+      "category": "Malaysia merdeka",
+      "title": "merdeka",
+      "image_link": "https://raw.githubusercontent.com/pratamaTeknologi/aplikasitwibon/main/twupin3.webp"
+    },
+    {
+      "id": 19,
+      "category": "Malaysia merdeka",
+      "title": "merdeka",
+      "image_link": "https://raw.githubusercontent.com/pratamaTeknologi/aplikasitwibon/main/twupin4.webp"
+    },
+    {
+      "id": 20,
+      "category": "Malaysia merdeka",
+      "title": "merdeka",
+      "image_link": "https://raw.githubusercontent.com/pratamaTeknologi/aplikasitwibon/main/twupin5.webp"
     }
 
   ]
